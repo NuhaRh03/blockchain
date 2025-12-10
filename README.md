@@ -1,7 +1,7 @@
-# dapp_flutter_imane
+# blockchain
 
 **TP — Blockchain & DApp (HelloWorld)**  
-Auteur: Imane Barakat  
+Auteur: nouhaila el rhazzaoui  
 Date: 08/12/2025
 
 ## Description
