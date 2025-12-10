@@ -1,0 +1,12 @@
+{
+  "name": "dapp_flutter_imane_blockchain",
+  "version": "1.0.0",
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate --network development",
+    "test": "truffle test"
+  },
+  "devDependencies": {
+    "truffle": "^5.9.0"
+  }
+}
